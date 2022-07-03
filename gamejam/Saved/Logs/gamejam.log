@@ -1066,3 +1066,4 @@ Continue: Skip saving this asset only.
 [2022.07.03-18.35.31:779][668]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/VirtualProduction/Takes/Content/UMG/DefaultRecordingOverlay.uasset'. Attempt result was '../../Plugins/VirtualProduction/Takes/Content/UMG/DefaultRecordingOverlay', but the path contains illegal characters '.'
 [2022.07.03-18.35.31:782][668]EditorErrors: Warning: No assets to check in!
 [2022.07.03-18.35.43:081][149]LogSlate: Window 'Source Control Login' being destroyed
+[2022.07.03-18.38.34:995][919]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
